@@ -16,19 +16,19 @@ body, html{
     background-attachment:fixed;
   }
   .pimg1{
-    background-image:url('gv1.jpg');
+    background-image:url('./img/gv1.jpg');
     min-height:100%;
   }
   .pimg2{
-    background-image:url('gv2.jpg');
+    background-image:url('./img/gv2.jpg');
     min-height:100%;
   }
   .pimg3{
-    background-image:url('gv3.jpg');
+    background-image:url('./img/gv3.jpg');
     min-height:100%;
   }
   .pimg4{
-    background-image:url('gv4.jpg');
+    background-image:url('./img/gv4.jpg');
     min-height:100%;
   }
   .section{
